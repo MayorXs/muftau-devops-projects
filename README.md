@@ -8,3 +8,7 @@ This is my personal collection of reusable Terraform modules built during my int
 ---
 
 > 💡 *Part of the PulseGrid ETL internship under Darey.io*
+
+## 📸 Module Preview
+
+![CloudWatch Lambda Module](docs/screenshot.png)
